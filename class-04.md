@@ -90,4 +90,4 @@ getArea(wallWidth, wallHeight);
     * coding is part of the job interview process, so it's good to get used to doing it with other people and to practice explaining what youre doing and why
 
 * Work Environment Readiness
-    * coding usually happens in teams, if you are already familiar to working this way, that's one less hurdle to overcome
+    * coding usually happens in teams, if you are already familiar to working this way, that's one less hurdle to overcomesum$
